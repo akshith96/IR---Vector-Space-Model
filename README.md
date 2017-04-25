@@ -15,4 +15,4 @@ README.md
 Compiling and Running the Code:
 Open the Vsearch.py using IDLE (Python 3.5 32 bit). Press F5 to run the code. The program prompts the user to input the file path of the corpus.
 
-For unix based operating systems (Mac OSX/Linux) replace the following the lines 10 and 13 of the code in VSearch.py with "for file in os.listdir(directory + "/"):" and "files.append(directory + "/" + file)".
+For unix based operating systems (Mac OSX/Linux) replace the following the lines 10 and 13 of the code in VSearch.py with "for file in os.listdir(directory + "/"):" and "files.append(directory + "/" + file)"
